@@ -40,7 +40,7 @@ router.post(
 
       const activationToken = createActivationToken(seller);
 
-      const activationUrl = `https://shop-connect-osxp-m83cjabzw-g3vind.vercel.app/seller/activation/${activationToken}`;
+      const activationUrl = `https://shop-connect-main.vercel.app/seller/activation/${activationToken}`;
 
       try {
         await sendMail({
