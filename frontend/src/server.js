@@ -1,5 +1,5 @@
 export const server =
-  "https://shop-connect-osxp-34cy2sw7t-g3vind.vercel.app/api/v2";
+  "https://shop-connect-osxp-m83cjabzw-g3vind.vercel.app/api/v2";
 
 export const backend_url =
-  "https://shop-connect-osxp-34cy2sw7t-g3vind.vercel.app";
+  "https://shop-connect-osxp-m83cjabzw-g3vind.vercel.app/";
