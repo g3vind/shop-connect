@@ -32,8 +32,8 @@ This project is a full-stack MERN (MongoDB, Express, React, Node.js) application
 
 ## Getting Started
 
-1. **Clone the repository**: `git clone https://github.com/your-username/mern-stack-ecommerce.git`
-2. **Install dependencies**: `cd mern-stack-ecommerce` then `npm install` in both the root and `client` directories.
+1. **Clone the repository**: `git clone https://github.com/g3vind/shop-connect.git`
+2. **Install dependencies**: `cd shop-connect` then `npm install` in both the root and `client` directories.
 3. **Set up environment variables**: Create a `.env` file in the root directory with the following variables:
    - `MONGO_URI`: MongoDB connection string
    - `JWT_SECRET`: Secret key for JSON Web Tokens
