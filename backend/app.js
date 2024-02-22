@@ -7,7 +7,7 @@ const cors = require("cors");
 
 app.use(
   cors({
-    origin: ["https://shop-connect-zeta.vercel.app/"],
+    origin: ["https://shop-connect-zeta.vercel.app"],
     credentials: true,
   })
 );
