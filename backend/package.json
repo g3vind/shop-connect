@@ -1,5 +1,5 @@
 {
-  "name": "e-shop-tutorial",
+  "name": "shop-connect",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,7 +10,7 @@
     "dev": "nodemon server.js",
     "start": "node server.js"
   },
-  "author": "shahriar Sajeeb",
+  "author": "Govind Kumar",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
