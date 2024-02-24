@@ -1,4 +1,3 @@
-export const server = "https://shop-connect-main.vercel.app/api/v2";
+export const server = "http://localhost:8000/api/v2";
 
-export const backend_url =
-  "https://shop-connect-osxp-m83cjabzw-g3vind.vercel.app/";
+export const backend_url = "http://localhost:8000/";
